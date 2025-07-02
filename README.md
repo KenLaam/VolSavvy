@@ -1,11 +1,11 @@
 # VolSavvy
+<a href="https://apps.apple.com/vn/app/volsavvy-trade-vol-calc/id6747645404"><img src="./AppStoreBadge.svg" height="80" /></a>
 
 <p float="left">
   <img src="./Screenshot-1.jpg" height="400" />
   <img src="./Screenshot-2.jpg" height="400" />
   <img src="./Screenshot-3.jpg" height="400" />
 </p>
-
 
 VolSavvy is a simple and efficient tool designed for traders who want to quickly calculate trading volume based on their risk management strategy. Whether you’re a beginner or an experienced trader, this app helps you avoid the hassle of manual calculations.
 
